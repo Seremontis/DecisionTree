@@ -1,0 +1,5 @@
+1. Program testowany na wartościach liczbowych oraz słownych (na podstawie wartości z pliku giełda).
+2. W trakcie testowania powstawały 3 klasy decyzycjne.
+
+
+Plikiem głównym do wyboru zbioru uczącego oraz wyświetlenia drzewa jest main.py.
